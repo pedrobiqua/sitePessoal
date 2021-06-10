@@ -1,0 +1,15 @@
+#container-frase{
+    margin-bottom: 11rem;
+}
+#center-titulo {
+    text-align: center;
+    padding-bottom: 1rem;
+    margin-bottom: 4rem;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+    border-bottom-color: #0d6efd;
+}
+
+#espaço-row {
+    margin-bottom: 3rem;
+}
